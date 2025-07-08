@@ -1,0 +1,7 @@
+streamlit==1.35.0
+httpx==0.27.0
+asyncio
+pandas
+PyMuPDF
+openai
+python-dotenv
