@@ -27,7 +27,7 @@ Whether you're building chatbots, fine-tuning LLMs, or crafting killer content �
 
 ## 🎨 Live Demo
 
-> 🔗 [COMING SOON on Hugging Face Spaces](https://huggingface.co/spaces/your-username/prompt-fixer)
+> https://prompt-fixer-y22ftxxqvds3hqjvac56ia.streamlit.app/
 
 ---
 
