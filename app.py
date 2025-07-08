@@ -7,10 +7,10 @@ import json
 import asyncio
 import httpx
 
-# --- Page Configuration ---
+# ⛔ DO NOT put any st.markdown(), st.title(), or st.container() before this
 st.set_page_config(
-    page_title="Prompt Fixer",
-    page_icon="🤖",
+    page_title="Prompt Fixer – Prompt Engineering Assistant",
+    page_icon="🛠️",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
