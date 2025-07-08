@@ -42,9 +42,8 @@ Whether you're building chatbots, fine-tuning LLMs, or crafting killer content â
 
 ## ðŸ“¸ Screenshots
 
-| Prompt Analysis | Score Bubble |
-|------------------|---------------|
-| ![Analysis](https://dummyimage.com/600x300/121212/ffffff&text=Prompt+Fixer+Analysis) | ![Score](https://dummyimage.com/200x200/6C63FF/ffffff&text=9/10) |
+
+(ss1.png) 
 
 ---
 
