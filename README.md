@@ -40,10 +40,10 @@ Whether you're building chatbots, fine-tuning LLMs, or crafting killer content �
 
 ---
 
-## 📸 Screenshots
-https://github.com/Vaish-d30/Prompt-Fixer/blob/1d32c4eb7900f0519ee907112fd0127400c5e34c/ss1.png
-https://github.com/Vaish-d30/Prompt-Fixer/blob/1d32c4eb7900f0519ee907112fd0127400c5e34c/ss2.png
-https://github.com/Vaish-d30/Prompt-Fixer/blob/1d32c4eb7900f0519ee907112fd0127400c5e34c/ss3.png 
+| Prompt Input + Analyze                                                                                                    | Flaw Detection + Scoring                                                                                                  | Prompt Variants + Tip                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ![Screenshot 1](https://github.com/Vaish-d30/Prompt-Fixer/blob/1d32c4eb7900f0519ee907112fd0127400c5e34c/ss1.png?raw=true) | ![Screenshot 2](https://github.com/Vaish-d30/Prompt-Fixer/blob/1d32c4eb7900f0519ee907112fd0127400c5e34c/ss2.png?raw=true) | ![Screenshot 3](https://github.com/Vaish-d30/Prompt-Fixer/blob/1d32c4eb7900f0519ee907112fd0127400c5e34c/ss3.png?raw=true) |
+
 ---
 
 ## 🧑‍💻 How to Run Locally
