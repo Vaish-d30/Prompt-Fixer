@@ -7,6 +7,14 @@ import json
 import asyncio
 import httpx
 
+# --- Page Configuration ---
+st.set_page_config(
+    page_title="Prompt Fixer",
+    page_icon="🤖",
+    layout="wide",
+    initial_sidebar_state="collapsed",
+)
+
 # --- Custom CSS Styling ---
 st.markdown("""
     <style>
@@ -117,14 +125,6 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
-
-# --- Page Configuration ---
-st.set_page_config(
-    page_title="Prompt Fixer",
-    page_icon="🤖",
-    layout="wide",
-    initial_sidebar_state="collapsed",
-)
 
 # --- Gemini API Call ---
 # NOTE: In a real-world scenario, the API key should be handled securely,
